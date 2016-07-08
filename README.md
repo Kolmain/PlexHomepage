@@ -1,4 +1,5 @@
 # PlexHomepage
+!(https://cloud.githubusercontent.com/assets/8104253/16698771/01cba682-451e-11e6-96d4-e386e4efe9b9.JPG)
 A Plex landing page that redirects you to your various sites/services, forked from PlexRedirect.
 
 ## Installing:
